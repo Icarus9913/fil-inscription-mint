@@ -6,7 +6,7 @@ Just like what the stupid BRC20 did.
 
 ## How to use it?
 
-This stupid source codes were written with golang, you need to change the variable to use it.
+This stupid source codes were written with golang, you need to change the variable in the `main.go` to use it.
 
 I'll improve it just like using a CLI later.
 
