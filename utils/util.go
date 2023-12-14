@@ -1,4 +1,4 @@
-package sdk
+package utils
 
 import (
 	"encoding/base64"
